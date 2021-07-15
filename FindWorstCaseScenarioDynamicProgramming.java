@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.Scanner;
 
 
-public class FindWorstCaseScenario {
+public class FindWorstCaseScenarioDynamicProgramming {
 
 	private static int MAX_NO_OF_BATTERY = 2;
 
