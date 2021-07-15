@@ -1,4 +1,4 @@
-Egg Dropping Dynamic Programming
+Egg Dropping Dynamic Programming/No of battery to find in worst case sceario
 
 Reger No_of_battery_prob_Worst_Case_Sceanrio_solution.xlsx sheet for solution
 
